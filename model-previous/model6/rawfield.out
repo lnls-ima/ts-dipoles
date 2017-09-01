@@ -1,0 +1,14 @@
+--- fieldmap ---
+timestamp:                          2015-10-27_10-37-21
+filename:                           2015-10-27_Dipolo_BD_LT_BO_SI_Modelo_6_-80_35mm_-1000_1000mm.txt
+magnet_label:                       BD_LT_BO_SI
+magnet_length:                      1206.0 mm
+main_coil_current:                  723.1 A
+magnetic_gap:                       28.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            231 points in [-80.0,35.0] mm (step of 0.500000 mm)
+rz_grid:                            2001 points in [-1000.0,1000.0] mm (step of 1.000000 mm)
+by@(all)(axis):                     (min:-0.80486 max:-0.00009) (min:-0.77604 max:-0.00010) Tesla
+bx@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
+bz@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
