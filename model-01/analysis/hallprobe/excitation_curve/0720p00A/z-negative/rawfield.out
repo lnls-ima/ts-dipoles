@@ -1,0 +1,14 @@
+--- fieldmap ---
+timestamp:                          2021-01-22_08-20-55
+filename:                           2021-01-22_BD-006_Fieldmap_X=-50_20mm_Z=-960_960mm_Imc=720.0A_ID=3196.dat
+magnet_label:                       BD-006
+magnet_length:                      1206.0 mm
+main_coil_current:                  720.064 A
+magnetic_gap:                       28.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            36 points in [-50.0,20.0] mm (step of 2.000000 mm)
+rz_grid:                            1921 points in [-960.0,960.0] mm (step of 1.000000 mm)
+by@(all)(axis):                     (min:-0.79857 max:-0.00005) (min:-0.77084 max:-0.00005) Tesla
+bx@(all)(axis):                     (min:-0.00455 max:+0.00177) (min:-0.00051 max:+0.00089) Tesla
+bz@(all)(axis):                     (min:-0.00380 max:+0.00267) (min:-0.00362 max:+0.00202) Tesla
